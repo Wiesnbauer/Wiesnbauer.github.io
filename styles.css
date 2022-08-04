@@ -1,0 +1,35 @@
+h1 {
+    display: inline;
+    padding: 25px;
+    margin: 20px;
+    color: white;
+    background-color: grey;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+}
+
+nav li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+}
+
+#html {
+    background-color: grey;
+    color: white;
+}
+
+#html div {
+    padding: 15px;
+    border: 5px solid black;
+}
+
+#css {
+    background-color: bisque;
+    padding: 15px;
+    border: 5px solid black;
+}
